@@ -177,3 +177,4 @@ URL-REGEX,http://r.cnews.qq.com\/getSubNewsRelate\?id=.* // 天天快报内文
 URL-REGEX,http://pica-juicy.picacomic.com\/ios\/comic_detail // 天猫排除
 URL-REGEX,http://pica-juicy.picacomic.com\/ios\/font // 天猫排除
 URL-REGEX,http://pica-juicy.picacomic.com\/ios\/home_banner // 天猫排除
+URL-REGEX,https://mlife.cmbchina.com/ClientFace(Service)?/preCacheAdvertiseSec.json
