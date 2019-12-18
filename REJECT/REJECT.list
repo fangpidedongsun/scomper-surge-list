@@ -9172,3 +9172,25 @@ URL-REGEX,"^http:\/\/pic\.xiami\.net\/images\/common\/uploadpic\/.*\.jpg$"
 
 # 江苏移动
 URL-REGEX,"^http:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v1\/market_content\.page\.query$"
+
+#ADD FROM  onewayticket255
+DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,talkingdata
+
+//QQ
+USER-AGENT,TencentConnect*
+DOMAIN-SUFFIX,3g.qq.com
+DOMAIN,pingma.qq.com
+DOMAIN,3gimg.qq.com
+DOMAIN,fusion.qq.com
+DOMAIN,ios.bugly.qq.com
+DOMAIN,wup.imtt.qq.com
+DOMAIN,sdk.e.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+
+//Apple
+USER-AGENT,com.apple.AppStore.ProductPageExtension*
+DOMAIN,iadsdk.apple.com
+
+//Ali
+DOMAIN-KEYWORD,adashx
