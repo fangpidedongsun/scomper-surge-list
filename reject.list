@@ -848,6 +848,7 @@ DOMAIN-SUFFIX,wan.youku.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
 # Baidu
+DOMAIN-SUFFIX,itsdata.map.baidu.com
 DOMAIN-SUFFIX,baidu.greenxf.cn
 DOMAIN-SUFFIX,cpro.baidu.cn
 DOMAIN-SUFFIX,a.baidu.com
