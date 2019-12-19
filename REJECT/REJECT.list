@@ -9187,3 +9187,5 @@ DOMAIN-SUFFIX,gdt.qq.com
 USER-AGENT,com.apple.AppStore.ProductPageExtension*
 DOMAIN,iadsdk.apple.com
 
+//招商银行 BY self
+DOMAIN-SUFFIX tdios.cmbchina.com
