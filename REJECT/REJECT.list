@@ -9354,20 +9354,6 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-# > Alibaba
-DOMAIN,acs4baichuan.m.taobao.com
-DOMAIN,adash.m.taobao.com
-DOMAIN,adash.man.aliyuncs.com
-DOMAIN,adashbc.ut.taobao.com
-DOMAIN,adash-c.ut.taobao.com
-DOMAIN,adashx.m.taobao.com
-DOMAIN,adashx4yt.m.taobao.com
-DOMAIN,adashxgc.ut.taobao.com
-DOMAIN,h-adashx.ut.taobao.com
-DOMAIN,nbsdk-baichuan.alicdn.com
-DOMAIN,optimus-ads.amap.com
-DOMAIN,optimus-ads.amap.com.w.alikunlun.com
-DOMAIN,tunion-api.m.taobao.com
 # > AutoHome
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,rd.autohome.com.cn
