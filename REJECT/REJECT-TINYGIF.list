@@ -233,11 +233,11 @@ DOMAIN,static.gridsumdissector.com
 DOMAIN,syndication.streamads.yahoo.com
 DOMAIN,caclick.baidu.com
 DOMAIN,cdn.huilanke.com
-DOMAIN,js.union-wifi.com // wifi营销
+DOMAIN,js.union-wifi.com
 DOMAIN,iwantapi.com
 DOMAIN,setting.rayjump.com
 #NEW
-DOMAIN,adse.ximalaya.com // xima
-DOMAIN,adse.wsa.ximalaya.com // xima
-DOMAIN,statwup.huya.com // huya
-DOMAIN,zhihu-web-analytics.zhihu.com // zhihu
+DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,statwup.huya.com
+DOMAIN,zhihu-web-analytics.zhihu.com
