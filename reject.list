@@ -380,15 +380,12 @@ DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adver.qq.com
-DOMAIN-SUFFIX,aeventlog.beacon.qq.com
 DOMAIN-SUFFIX,aexception.bugly.qq.com
 DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,android.bugly.qq.com
 DOMAIN-SUFFIX,android.rqd.qq.com
 DOMAIN-SUFFIX,appsupport.qq.com
 DOMAIN-SUFFIX,astat.bugly.qq.com
-DOMAIN-SUFFIX,astrategy.beacon.qq.com
-DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,bs.l.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
@@ -411,7 +408,6 @@ DOMAIN-SUFFIX,dir.minigame.qq.com
 DOMAIN-SUFFIX,download.sj.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,etg.qq.com
-DOMAIN-SUFFIX,eventlog.beacon.qq.com
 DOMAIN-SUFFIX,ex.qq.com
 DOMAIN-SUFFIX,fm.qzone.qq.com
 DOMAIN-SUFFIX,fodder.qq.com
@@ -495,7 +491,6 @@ DOMAIN-SUFFIX,showwxml.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,soft.tbs.imtt.qq.com
 DOMAIN-SUFFIX,stdl.qq.com
-DOMAIN-SUFFIX,strategy.beacon.qq.com
 DOMAIN-SUFFIX,t.gdt.qq.com
 DOMAIN-SUFFIX,t.l.qq.com
 DOMAIN-SUFFIX,t.sj.qq.com
