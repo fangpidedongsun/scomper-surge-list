@@ -325,7 +325,6 @@ DOMAIN-SUFFIX,jp.as.pptv.com
 DOMAIN-SUFFIX,ht55.cn
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN-SUFFIX,statcounter.com
-DOMAIN-SUFFIX,beacon.qq.com,DIRECT
 DOMAIN-SUFFIX,pingtcss.qq.com
 DOMAIN-SUFFIX,report.qq.com
 DOMAIN-SUFFIX,union.youdao.com
@@ -8678,7 +8677,6 @@ URL-REGEX,https?://[^bbs].tianya\.cn
 URL-REGEX,https?://\w.?up.qingdaonews.com
 URL-REGEX,https?://\w{6}.com1.z0.glb.clouddn.com
 URL-REGEX,https?://\w{8}.logic.cpm.cm.kankan.com
-URL-REGEX,https?://\w+.beacon.qq.com
 URL-REGEX,https?://\w+.cloudfront.net/banner
 URL-REGEX,https?://\w+.gdt.qq.com
 URL-REGEX,https?://\w+.kingsoft-office-service.com
@@ -9370,7 +9368,6 @@ DOMAIN,track.sohu.com
 DOMAIN,hui.sohu.com
 # (T)
 # > Tencent
-DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
