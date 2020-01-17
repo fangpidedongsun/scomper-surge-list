@@ -172,10 +172,8 @@ DOMAIN,pub.funshion.com
 DOMAIN,adm.funshion.com
 DOMAIN,aw01.pub.funshion.com
 DOMAIN,jobsfe.funshion.com
-DOMAIN,po.funshion.com,DIRECT
 DOMAIN,pv.funshion.com
 DOMAIN,stat.funshion.net
-DOMAIN,ai0.pub.funshion.com,DIRECT
 DOMAIN,slb.gedawang.com
 DOMAIN,img.shentus.com
 DOMAIN,aos.prf.hn
@@ -229,19 +227,19 @@ DOMAIN,g.gridsum.com
 DOMAIN,recv-wd.gridsumdissector.com
 DOMAIN,static.gridsumdissector.com
 DOMAIN,syndication.streamads.yahoo.com
-DOMAIN,adsapi.manhuaren.com // 漫画人内文
+DOMAIN,adsapi.manhuaren.com
 DOMAIN,caclick.baidu.com
 DOMAIN,cdn.huilanke.com
-DOMAIN,js.union-wifi.com // wifi营销
+DOMAIN,js.union-wifi.com
 DOMAIN,iwantapi.com
 DOMAIN,setting.rayjump.com
 #NEW
-DOMAIN,adse.ximalaya.com //xima
-DOMAIN,adse.wsa.ximalaya.com //xima
-DOMAIN,statwup.huya.com //huya
-DOMAIN,zhihu-web-analytics.zhihu.com //zhihu
+DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,statwup.huya.com
+DOMAIN,zhihu-web-analytics.zhihu.com
 
-DOMAIN-SUFFIX,crittercism.com // 诊断分析
+DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,oneway.mobi
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,beacon.tingyun.com
@@ -358,7 +356,7 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,admob
 DOMAIN-KEYWORD,qtmojo
-////////////////////////////////////////////////////////////////////以上DOUB
+
 // ADD FROM LINE1
 # Ads in Video apps
 
