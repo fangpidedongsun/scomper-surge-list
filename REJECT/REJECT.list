@@ -9262,7 +9262,6 @@ DOMAIN,goblin.hupu.com
 # > iQiyi
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,msg.71.am
-DOMAIN,msg.qy.net
 DOMAIN,t7z.cupid.iqiyi.com
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,101.227.200.11/32,no-resolve
