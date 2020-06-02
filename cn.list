@@ -24,7 +24,9 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,biquge.com.tw
 DOMAIN-SUFFIX,ip.bjango.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,ip.fm
 DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,moke.com
@@ -38,3 +40,4 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+IP-CIDR,47.91.210.61/32
